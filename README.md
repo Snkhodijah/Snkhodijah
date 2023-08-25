@@ -7,6 +7,9 @@ Saat ini saya sedang mengikuti kegiatan MBKM Studi Independen dengaan mitra Bang
 
 MACHINE LEARNING menjadi pilihan saya untuk mendalami bidang Data Science. 
 
+Ikuti linkin ku disini ya : 
+[Linkedin](https://www.linkedin.com/in/)
+
 - 💬 Ask me anything ...
 
 <!--
