@@ -1,4 +1,13 @@
 ### Hi there 👋
+Perkenalkan nama saya **Siti Nurkhodijah**.
+
+Saya seorang mahasiswa Sistem Informasi.
+
+Saat ini saya sedang mengikuti kegiatan MBKM Studi Independen dengaan mitra Bangkit.
+
+MACHINE LEARNING menjadi pilihan saya untuk mendalami bidang Data Science. 
+
+- 💬 Ask me anything ...
 
 <!--
 **Snkhodijah/Snkhodijah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
