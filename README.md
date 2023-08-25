@@ -1,16 +1,13 @@
 ### Hi there 👋
-Perkenalkan nama saya **Siti Nurkhodijah**.
-
+Perkenalkan nama saya **Siti Nurkhodijah**.\
 Saya seorang mahasiswa Sistem Informasi.
-
-Saat ini saya sedang mengikuti kegiatan MBKM Studi Independen dengaan mitra Bangkit.
-
+Saat ini saya sedang mengikuti kegiatan MBKM Studi Independen.\
 MACHINE LEARNING menjadi pilihan saya untuk mendalami bidang Data Science. 
 
 Ikuti linkin ku disini ya : 
-[Linkedin](https://www.linkedin.com/in/)
-
-- 💬 Ask me anything ...
+[Linkedin](https://www.linkedin.com/in/).\
+and
+- 💬 Ask me anything ...?
 
 
 <p align="left">
